@@ -41,7 +41,7 @@ define('ADMIN_EMAIL','demouser@opsgility.com');
 define('DBTYPE','mysql');
 define('DBHOST','user30osticketsrv01.mysql.database.azure.com');
 define('DBNAME','osticket');
-define('DBUSER','demouser@osticketmysql');
+define('DBUSER','demouser@user30osticketsrv01');
 define('DBPASS','demo@pass123');
 
 # Table prefix
